@@ -60,4 +60,4 @@ A terminal-based Snake game written in C, featuring both solo and duel (1 vs 1 m
 
 This project was created as a learning exercise.
 
-#Enjoy!
+# Enjoy!
